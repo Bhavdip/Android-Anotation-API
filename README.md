@@ -9,6 +9,9 @@ see for more
 
 http://androidannotations.org/
 
+Notes : 
+This project need library appcompat_v7 
+
 Before 
 
 public class BookmarksToClipboardActivity extends Activity {
