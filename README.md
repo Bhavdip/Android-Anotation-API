@@ -5,8 +5,11 @@ AndroidAnnotations is an Open Source framework that speeds up Android developmen
 It takes care of the plumbing, and lets you concentrate on what's really important. 
 By simplifying your code, it facilitates its maintenance.
 
+see for more 
+
+http://androidannotations.org/
+
 Before 
-------------------------
 
 public class BookmarksToClipboardActivity extends Activity {
   
@@ -117,7 +120,7 @@ public class BookmarksToClipboardActivity extends Activity {
 }
 
 After Anotation
------------------
+
 
 @NoTitle
 @Fullscreen
